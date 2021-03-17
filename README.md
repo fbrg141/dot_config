@@ -1,2 +1,1 @@
-# dot_config
-#POLYBAR
+Configuration files for Arch Linux Qtile
