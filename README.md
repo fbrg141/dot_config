@@ -1,1 +1,3 @@
-Configuration files for Arch Linux Qtile
+# **Configuration files for Arch  Linux**
+
+- polybar configuration
